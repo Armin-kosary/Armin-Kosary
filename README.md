@@ -17,17 +17,29 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
   </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
   </a> 
-  <a href="https://www.opencv.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/ultralytics" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="yolo" width="80" height="40"/> 
+  </a> 
+  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer"> 
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
+  </a> 
+  <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spacy.svg" alt="spacy" width="40" height="40"/> 
+  </a> 
+  <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Gensim-NLP-green?logo=python&logoColor=white" alt="gensim" height="40"/> 
   </a> 
 </p>
 <br>
@@ -38,7 +50,3 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armin-kosary" height="30" width="40" />
 </a>
 </p>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armin-kosary&show_icons=true&locale=en&layout=compact" alt="armin-kosary" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armin-kosary&show_icons=true&locale=en" alt="armin-kosary" /></p>
