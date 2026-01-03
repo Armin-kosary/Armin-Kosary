@@ -32,9 +32,3 @@ I am an entry-level Backend Developer based in **Gorgan, Iran**, passionate abou
 **DevOps & Tools:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-LinkedIn : <br>
-[Linkedin Badge]: https://img.shields.io/badge/-Armin_Kosari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armin-kosary/
-[![Linkedin Badge]](https://www.linkedin.com/in/armin-kosary/)
