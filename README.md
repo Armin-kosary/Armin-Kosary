@@ -35,5 +35,5 @@ I am an entry-level Backend Developer based in **Gorgan, Iran**, passionate abou
 
 ---
 
-[Linkedin Badge]: https://img.shields.io/badge/-Armin_Kosari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armin-kosary/
+LinkedIn : [Linkedin Badge]: https://img.shields.io/badge/-Armin_Kosari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armin-kosary/
 [![Linkedin Badge]](https://www.linkedin.com/in/armin-kosary/)
