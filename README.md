@@ -1,52 +1,46 @@
-<h1 align="center">Hi 👋, I'm Armin</h1>
-<h3 align="center">A passionate Data Scientist from Iran 🇮🇷</h3>
+# Hi there, I'm Armin Kosari! 👋
 
-🔭 Currently working on **NLP & Computer Vision projects**  
-🌱 Always learning more about **Machine Learning, Deep Learning, and Generative AI**  
-💬 Ask me about **Python, Data Analysis, and AI Models**  
-<br>
+### 🚀 Backend Developer | NestJS Enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/ultralytics" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="yolo" width="80" height="40"/> 
-  </a> 
-  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer"> 
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
-  </a> 
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spacy.svg" alt="spacy" width="40" height="40"/> 
-  </a> 
-  <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Gensim-NLP-green?logo=python&logoColor=white" alt="gensim" height="40"/> 
-  </a> 
-</p>
-<br>
+I am an entry-level Backend Developer based in **Gorgan, Iran**, passionate about building scalable web applications and RESTful APIs using the **JavaScript/TypeScript** ecosystem. Currently studying Software Engineering.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armin-kosary" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armin-kosary" height="30" width="40" />
-</a>
-</p>
+- 🔭 I’m currently working on **Advanced NestJS Microservices**.
+- 🌱 I’m currently learning **System Design & Advanced Docker patterns**.
+- 👯 I’m looking to collaborate on **Open Source Node.js Projects**.
+- 💬 Ask me about **NestJS, Express, and Database Architecture**.
+- 📫 How to reach me: **Armin.Kosari84@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Backend Frameworks:**
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**Databases & ORMs:**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-fe0626?style=for-the-badge&logo=typeorm&logoColor=white)
+
+**DevOps & Tools:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armin-kosary&show_icons=true&theme=radical" height="150" alt="Armin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-kosary&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
+
+[Linkedin Badge]: https://img.shields.io/badge/-Armin_Kosari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armin-kosary/
+[![Linkedin Badge]](https://www.linkedin.com/in/armin-kosary/)
