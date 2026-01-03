@@ -35,12 +35,5 @@ I am an entry-level Backend Developer based in **Gorgan, Iran**, passionate abou
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armin-kosary&show_icons=true&theme=radical" height="150" alt="Armin's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armin-kosary&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
 [Linkedin Badge]: https://img.shields.io/badge/-Armin_Kosari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armin-kosary/
 [![Linkedin Badge]](https://www.linkedin.com/in/armin-kosary/)
